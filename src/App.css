@@ -1,0 +1,9 @@
+img.remove {
+padding-left: .25rem;
+}
+
+.Todo > span:not(.remove) {
+  margin-top: .2rem;
+  display: flex;
+}
+
